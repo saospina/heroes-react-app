@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/heroes-react-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/heroes-react-app/static/js/main.231618a4.chunk.js",
-    "main.js.map": "/heroes-react-app/static/js/main.231618a4.chunk.js.map",
+    "main.js": "/heroes-react-app/static/js/main.eb9380cd.chunk.js",
+    "main.js.map": "/heroes-react-app/static/js/main.eb9380cd.chunk.js.map",
     "runtime-main.js": "/heroes-react-app/static/js/runtime-main.f1852ebb.js",
     "runtime-main.js.map": "/heroes-react-app/static/js/runtime-main.f1852ebb.js.map",
-    "static/js/2.8e2485b1.chunk.js": "/heroes-react-app/static/js/2.8e2485b1.chunk.js",
-    "static/js/2.8e2485b1.chunk.js.map": "/heroes-react-app/static/js/2.8e2485b1.chunk.js.map",
+    "static/js/2.8c867d1e.chunk.js": "/heroes-react-app/static/js/2.8c867d1e.chunk.js",
+    "static/js/2.8c867d1e.chunk.js.map": "/heroes-react-app/static/js/2.8c867d1e.chunk.js.map",
     "index.html": "/heroes-react-app/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/heroes-react-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8e2485b1.chunk.js.LICENSE.txt": "/heroes-react-app/static/js/2.8e2485b1.chunk.js.LICENSE.txt"
+    "static/js/2.8c867d1e.chunk.js.LICENSE.txt": "/heroes-react-app/static/js/2.8c867d1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f1852ebb.js",
-    "static/js/2.8e2485b1.chunk.js",
+    "static/js/2.8c867d1e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.231618a4.chunk.js"
+    "static/js/main.eb9380cd.chunk.js"
   ]
 }
