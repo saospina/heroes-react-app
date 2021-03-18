@@ -10,7 +10,7 @@ export const HeroCard = ({
     characters,
 }) => {
     return (
-        <div className="card">
+        <div className="card animate__animated animate__fadeIn">
             <img src={`./assets/heroes/${id}.jpg`} className="card-img-top" alt={superhero} />
             <div className="card-body">
                 <h5 className="card-title">{superhero}</h5>

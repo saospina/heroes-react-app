@@ -4,7 +4,7 @@ import { getHeroById } from '../../selectors/getHeroById';
 
 
 export const HeroesScreen = ({ history }) => {
-    
+
     const { heroeId } = useParams();
 
     const hero = getHeroById(heroeId);
@@ -28,7 +28,11 @@ export const HeroesScreen = ({ history }) => {
     return (
         <div className="row mt-5">
             <div className="col-4">
-                <img src={`../assets/heroes/${heroeId}.jpg`} alt={superhero} className="img-thumbnail" />
+                <img
+                    src={`../assets/heroes/${heroeId}.jpg`}
+                    alt={superhero}
+                    className="img-thumbnail animate__animated animate__fadeInLeft"
+                />
             </div>
             <div className="col-8">
                 <h3>{superhero}</h3>
