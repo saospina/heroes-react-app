@@ -11,7 +11,8 @@ export const HeroCard = ({
 }) => {
     return (
         <div className="card animate__animated animate__fadeIn">
-            <img src={`./assets/heroes/${id}.jpg`} className="card-img-top" alt={superhero} />
+            {/* <img src={`./assets/heroes/dc-arrow.jpg`} alt="something"/> */}
+            <img src={`./assets/heroes/${id}.jpg`} className="card-img" alt={superhero} />
             <div className="card-body">
                 <h5 className="card-title">{superhero}</h5>
                 <p className="card-text">{alter_ego}</p>
